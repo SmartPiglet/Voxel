@@ -1,0 +1,1019 @@
+# Copyright (C) 2025 Voxel
+# This file is distributed under the same license as the Voxel package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Voxel\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-18 02:40+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: app/utils/country-list.php:14, app/modules/stripe-payments/country-codes.php:35
+msgid "Afghanistan"
+msgstr ""
+
+#: app/utils/country-list.php:18, app/modules/stripe-payments/country-codes.php:36
+msgid "Aland Islands"
+msgstr ""
+
+#: app/utils/country-list.php:22, app/modules/stripe-payments/country-codes.php:37
+msgid "Albania"
+msgstr ""
+
+#: app/utils/country-list.php:26, app/modules/stripe-payments/country-codes.php:38
+msgid "Algeria"
+msgstr ""
+
+#: app/utils/country-list.php:30, app/modules/stripe-payments/country-codes.php:39
+msgid "American Samoa"
+msgstr ""
+
+#: app/utils/country-list.php:34, app/modules/stripe-payments/country-codes.php:40
+msgid "Andorra"
+msgstr ""
+
+#: app/utils/country-list.php:38, app/modules/stripe-payments/country-codes.php:41
+msgid "Angola"
+msgstr ""
+
+#: app/utils/country-list.php:42, app/modules/stripe-payments/country-codes.php:42
+msgid "Anguilla"
+msgstr ""
+
+#: app/utils/country-list.php:46, app/modules/stripe-payments/country-codes.php:43
+msgid "Antarctica"
+msgstr ""
+
+#: app/utils/country-list.php:50, app/modules/stripe-payments/country-codes.php:44
+msgid "Antigua And Barbuda"
+msgstr ""
+
+#: app/utils/country-list.php:54, app/modules/stripe-payments/country-codes.php:45
+msgid "Argentina"
+msgstr ""
+
+#: app/utils/country-list.php:58, app/modules/stripe-payments/country-codes.php:46
+msgid "Armenia"
+msgstr ""
+
+#: app/utils/country-list.php:62, app/modules/stripe-payments/country-codes.php:47
+msgid "Aruba"
+msgstr ""
+
+#: app/utils/country-list.php:66, app/modules/stripe-payments/country-codes.php:48
+msgid "Australia"
+msgstr ""
+
+#: app/utils/country-list.php:70, app/modules/stripe-payments/country-codes.php:49
+msgid "Austria"
+msgstr ""
+
+#: app/utils/country-list.php:74, app/modules/stripe-payments/country-codes.php:50
+msgid "Azerbaijan"
+msgstr ""
+
+#: app/utils/country-list.php:78, app/modules/stripe-payments/country-codes.php:51
+msgid "Bahamas"
+msgstr ""
+
+#: app/utils/country-list.php:82, app/modules/stripe-payments/country-codes.php:52
+msgid "Bahrain"
+msgstr ""
+
+#: app/utils/country-list.php:86, app/modules/stripe-payments/country-codes.php:53
+msgid "Bangladesh"
+msgstr ""
+
+#: app/utils/country-list.php:90, app/modules/stripe-payments/country-codes.php:54
+msgid "Barbados"
+msgstr ""
+
+#: app/utils/country-list.php:94, app/modules/stripe-payments/country-codes.php:55
+msgid "Belarus"
+msgstr ""
+
+#: app/utils/country-list.php:98, app/modules/stripe-payments/country-codes.php:56
+msgid "Belgium"
+msgstr ""
+
+#: app/utils/country-list.php:102, app/modules/stripe-payments/country-codes.php:57
+msgid "Belize"
+msgstr ""
+
+#: app/utils/country-list.php:106, app/modules/stripe-payments/country-codes.php:58
+msgid "Benin"
+msgstr ""
+
+#: app/utils/country-list.php:110, app/modules/stripe-payments/country-codes.php:59
+msgid "Bermuda"
+msgstr ""
+
+#: app/utils/country-list.php:114, app/modules/stripe-payments/country-codes.php:60
+msgid "Bhutan"
+msgstr ""
+
+#: app/utils/country-list.php:118, app/modules/stripe-payments/country-codes.php:61
+msgid "Bolivia"
+msgstr ""
+
+#: app/utils/country-list.php:122, app/modules/stripe-payments/country-codes.php:62
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: app/utils/country-list.php:126, app/modules/stripe-payments/country-codes.php:63
+msgid "Bosnia And Herzegovina"
+msgstr ""
+
+#: app/utils/country-list.php:130, app/modules/stripe-payments/country-codes.php:64
+msgid "Botswana"
+msgstr ""
+
+#: app/utils/country-list.php:134, app/modules/stripe-payments/country-codes.php:65
+msgid "Bouvet Island"
+msgstr ""
+
+#: app/utils/country-list.php:138, app/modules/stripe-payments/country-codes.php:66
+msgid "Brazil"
+msgstr ""
+
+#: app/utils/country-list.php:142, app/modules/stripe-payments/country-codes.php:67
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: app/utils/country-list.php:146, app/modules/stripe-payments/country-codes.php:68
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: app/utils/country-list.php:150, app/modules/stripe-payments/country-codes.php:69
+msgid "Bulgaria"
+msgstr ""
+
+#: app/utils/country-list.php:154, app/modules/stripe-payments/country-codes.php:70
+msgid "Burkina Faso"
+msgstr ""
+
+#: app/utils/country-list.php:158, app/modules/stripe-payments/country-codes.php:71
+msgid "Burundi"
+msgstr ""
+
+#: app/utils/country-list.php:162, app/modules/stripe-payments/country-codes.php:72
+msgid "Cambodia"
+msgstr ""
+
+#: app/utils/country-list.php:166, app/modules/stripe-payments/country-codes.php:73
+msgid "Cameroon"
+msgstr ""
+
+#: app/utils/country-list.php:170, app/modules/stripe-payments/country-codes.php:74
+msgid "Canada"
+msgstr ""
+
+#: app/utils/country-list.php:174, app/modules/stripe-payments/country-codes.php:75
+msgid "Cape Verde"
+msgstr ""
+
+#: app/utils/country-list.php:178, app/modules/stripe-payments/country-codes.php:76
+msgid "Cayman Islands"
+msgstr ""
+
+#: app/utils/country-list.php:182, app/modules/stripe-payments/country-codes.php:77
+msgid "Central African Republic"
+msgstr ""
+
+#: app/utils/country-list.php:186, app/modules/stripe-payments/country-codes.php:78
+msgid "Chad"
+msgstr ""
+
+#: app/utils/country-list.php:190, app/modules/stripe-payments/country-codes.php:79
+msgid "Chile"
+msgstr ""
+
+#: app/utils/country-list.php:194, app/modules/stripe-payments/country-codes.php:80
+msgid "China"
+msgstr ""
+
+#: app/utils/country-list.php:198, app/modules/stripe-payments/country-codes.php:81
+msgid "Christmas Island"
+msgstr ""
+
+#: app/utils/country-list.php:202, app/modules/stripe-payments/country-codes.php:82
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: app/utils/country-list.php:206, app/modules/stripe-payments/country-codes.php:83
+msgid "Colombia"
+msgstr ""
+
+#: app/utils/country-list.php:210, app/modules/stripe-payments/country-codes.php:84
+msgid "Comoros"
+msgstr ""
+
+#: app/utils/country-list.php:214, app/modules/stripe-payments/country-codes.php:85
+msgid "Congo"
+msgstr ""
+
+#: app/utils/country-list.php:218, app/modules/stripe-payments/country-codes.php:86
+msgid "Congo, Democratic Republic"
+msgstr ""
+
+#: app/utils/country-list.php:222, app/modules/stripe-payments/country-codes.php:87
+msgid "Cook Islands"
+msgstr ""
+
+#: app/utils/country-list.php:226, app/modules/stripe-payments/country-codes.php:88
+msgid "Costa Rica"
+msgstr ""
+
+#: app/utils/country-list.php:230, app/modules/stripe-payments/country-codes.php:89
+msgid "Cote D'Ivoire"
+msgstr ""
+
+#: app/utils/country-list.php:234, app/modules/stripe-payments/country-codes.php:90
+msgid "Croatia"
+msgstr ""
+
+#: app/utils/country-list.php:238, app/modules/stripe-payments/country-codes.php:91
+msgid "Cuba"
+msgstr ""
+
+#: app/utils/country-list.php:242, app/modules/stripe-payments/country-codes.php:92
+msgid "Curacao"
+msgstr ""
+
+#: app/utils/country-list.php:246, app/modules/stripe-payments/country-codes.php:93
+msgid "Cyprus"
+msgstr ""
+
+#: app/utils/country-list.php:250, app/modules/stripe-payments/country-codes.php:94
+msgid "Czech Republic"
+msgstr ""
+
+#: app/utils/country-list.php:254, app/modules/stripe-payments/country-codes.php:95
+msgid "Denmark"
+msgstr ""
+
+#: app/utils/country-list.php:258, app/modules/stripe-payments/country-codes.php:96
+msgid "Djibouti"
+msgstr ""
+
+#: app/utils/country-list.php:262, app/modules/stripe-payments/country-codes.php:97
+msgid "Dominica"
+msgstr ""
+
+#: app/utils/country-list.php:266, app/modules/stripe-payments/country-codes.php:98
+msgid "Dominican Republic"
+msgstr ""
+
+#: app/utils/country-list.php:270, app/modules/stripe-payments/country-codes.php:99
+msgid "Ecuador"
+msgstr ""
+
+#: app/utils/country-list.php:274, app/modules/stripe-payments/country-codes.php:100
+msgid "Egypt"
+msgstr ""
+
+#: app/utils/country-list.php:278, app/modules/stripe-payments/country-codes.php:101
+msgid "El Salvador"
+msgstr ""
+
+#: app/utils/country-list.php:282, app/modules/stripe-payments/country-codes.php:102
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: app/utils/country-list.php:286, app/modules/stripe-payments/country-codes.php:103
+msgid "Eritrea"
+msgstr ""
+
+#: app/utils/country-list.php:290, app/modules/stripe-payments/country-codes.php:104
+msgid "Estonia"
+msgstr ""
+
+#: app/utils/country-list.php:294, app/modules/stripe-payments/country-codes.php:105
+msgid "Ethiopia"
+msgstr ""
+
+#: app/utils/country-list.php:298, app/modules/stripe-payments/country-codes.php:106
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: app/utils/country-list.php:302, app/modules/stripe-payments/country-codes.php:107
+msgid "Faroe Islands"
+msgstr ""
+
+#: app/utils/country-list.php:306, app/modules/stripe-payments/country-codes.php:108
+msgid "Fiji"
+msgstr ""
+
+#: app/utils/country-list.php:310, app/modules/stripe-payments/country-codes.php:109
+msgid "Finland"
+msgstr ""
+
+#: app/utils/country-list.php:314, app/modules/stripe-payments/country-codes.php:110
+msgid "France"
+msgstr ""
+
+#: app/utils/country-list.php:318, app/modules/stripe-payments/country-codes.php:111
+msgid "French Guiana"
+msgstr ""
+
+#: app/utils/country-list.php:322, app/modules/stripe-payments/country-codes.php:112
+msgid "French Polynesia"
+msgstr ""
+
+#: app/utils/country-list.php:326, app/modules/stripe-payments/country-codes.php:113
+msgid "French Southern Territories"
+msgstr ""
+
+#: app/utils/country-list.php:330, app/modules/stripe-payments/country-codes.php:114
+msgid "Gabon"
+msgstr ""
+
+#: app/utils/country-list.php:334, app/modules/stripe-payments/country-codes.php:115
+msgid "Gambia"
+msgstr ""
+
+#: app/utils/country-list.php:338, app/modules/stripe-payments/country-codes.php:116
+msgid "Georgia"
+msgstr ""
+
+#: app/utils/country-list.php:342, app/modules/stripe-payments/country-codes.php:117
+msgid "Germany"
+msgstr ""
+
+#: app/utils/country-list.php:346, app/modules/stripe-payments/country-codes.php:118
+msgid "Ghana"
+msgstr ""
+
+#: app/utils/country-list.php:350, app/modules/stripe-payments/country-codes.php:119
+msgid "Gibraltar"
+msgstr ""
+
+#: app/utils/country-list.php:354, app/modules/stripe-payments/country-codes.php:120
+msgid "Greece"
+msgstr ""
+
+#: app/utils/country-list.php:358, app/modules/stripe-payments/country-codes.php:121
+msgid "Greenland"
+msgstr ""
+
+#: app/utils/country-list.php:362, app/modules/stripe-payments/country-codes.php:122
+msgid "Grenada"
+msgstr ""
+
+#: app/utils/country-list.php:366, app/modules/stripe-payments/country-codes.php:123
+msgid "Guadeloupe"
+msgstr ""
+
+#: app/utils/country-list.php:370, app/modules/stripe-payments/country-codes.php:124
+msgid "Guam"
+msgstr ""
+
+#: app/utils/country-list.php:374, app/modules/stripe-payments/country-codes.php:125
+msgid "Guatemala"
+msgstr ""
+
+#: app/utils/country-list.php:378, app/modules/stripe-payments/country-codes.php:126
+msgid "Guernsey"
+msgstr ""
+
+#: app/utils/country-list.php:382, app/modules/stripe-payments/country-codes.php:127
+msgid "Guinea"
+msgstr ""
+
+#: app/utils/country-list.php:386, app/modules/stripe-payments/country-codes.php:128
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: app/utils/country-list.php:390, app/modules/stripe-payments/country-codes.php:129
+msgid "Guyana"
+msgstr ""
+
+#: app/utils/country-list.php:394, app/modules/stripe-payments/country-codes.php:130
+msgid "Haiti"
+msgstr ""
+
+#: app/utils/country-list.php:398, app/modules/stripe-payments/country-codes.php:131
+msgid "Heard Island & Mcdonald Islands"
+msgstr ""
+
+#: app/utils/country-list.php:402, app/modules/stripe-payments/country-codes.php:132
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: app/utils/country-list.php:406, app/modules/stripe-payments/country-codes.php:133
+msgid "Honduras"
+msgstr ""
+
+#: app/utils/country-list.php:410, app/modules/stripe-payments/country-codes.php:134
+msgid "Hong Kong"
+msgstr ""
+
+#: app/utils/country-list.php:414, app/modules/stripe-payments/country-codes.php:135
+msgid "Hungary"
+msgstr ""
+
+#: app/utils/country-list.php:418, app/modules/stripe-payments/country-codes.php:136
+msgid "Iceland"
+msgstr ""
+
+#: app/utils/country-list.php:422, app/modules/stripe-payments/country-codes.php:137
+msgid "India"
+msgstr ""
+
+#: app/utils/country-list.php:426, app/modules/stripe-payments/country-codes.php:138
+msgid "Indonesia"
+msgstr ""
+
+#: app/utils/country-list.php:430, app/modules/stripe-payments/country-codes.php:139
+msgid "Iran, Islamic Republic Of"
+msgstr ""
+
+#: app/utils/country-list.php:434, app/modules/stripe-payments/country-codes.php:140
+msgid "Iraq"
+msgstr ""
+
+#: app/utils/country-list.php:438, app/modules/stripe-payments/country-codes.php:141
+msgid "Ireland"
+msgstr ""
+
+#: app/utils/country-list.php:442, app/modules/stripe-payments/country-codes.php:142
+msgid "Isle Of Man"
+msgstr ""
+
+#: app/utils/country-list.php:446, app/modules/stripe-payments/country-codes.php:143
+msgid "Israel"
+msgstr ""
+
+#: app/utils/country-list.php:450, app/modules/stripe-payments/country-codes.php:144
+msgid "Italy"
+msgstr ""
+
+#: app/utils/country-list.php:454, app/modules/stripe-payments/country-codes.php:145
+msgid "Jamaica"
+msgstr ""
+
+#: app/utils/country-list.php:458, app/modules/stripe-payments/country-codes.php:146
+msgid "Japan"
+msgstr ""
+
+#: app/utils/country-list.php:462, app/modules/stripe-payments/country-codes.php:147
+msgid "Jersey"
+msgstr ""
+
+#: app/utils/country-list.php:466, app/modules/stripe-payments/country-codes.php:148
+msgid "Jordan"
+msgstr ""
+
+#: app/utils/country-list.php:470, app/modules/stripe-payments/country-codes.php:149
+msgid "Kazakhstan"
+msgstr ""
+
+#: app/utils/country-list.php:474, app/modules/stripe-payments/country-codes.php:150
+msgid "Kenya"
+msgstr ""
+
+#: app/utils/country-list.php:478, app/modules/stripe-payments/country-codes.php:151
+msgid "Kiribati"
+msgstr ""
+
+#: app/utils/country-list.php:482, app/modules/stripe-payments/country-codes.php:152
+msgid "Kosovo"
+msgstr ""
+
+#: app/utils/country-list.php:486, app/modules/stripe-payments/country-codes.php:153
+msgid "Kuwait"
+msgstr ""
+
+#: app/utils/country-list.php:490, app/modules/stripe-payments/country-codes.php:154
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: app/utils/country-list.php:494, app/modules/stripe-payments/country-codes.php:155
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: app/utils/country-list.php:498, app/modules/stripe-payments/country-codes.php:156
+msgid "Latvia"
+msgstr ""
+
+#: app/utils/country-list.php:502, app/modules/stripe-payments/country-codes.php:157
+msgid "Lebanon"
+msgstr ""
+
+#: app/utils/country-list.php:506, app/modules/stripe-payments/country-codes.php:158
+msgid "Lesotho"
+msgstr ""
+
+#: app/utils/country-list.php:510, app/modules/stripe-payments/country-codes.php:159
+msgid "Liberia"
+msgstr ""
+
+#: app/utils/country-list.php:514, app/modules/stripe-payments/country-codes.php:160
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: app/utils/country-list.php:518, app/modules/stripe-payments/country-codes.php:161
+msgid "Liechtenstein"
+msgstr ""
+
+#: app/utils/country-list.php:522, app/modules/stripe-payments/country-codes.php:162
+msgid "Lithuania"
+msgstr ""
+
+#: app/utils/country-list.php:526, app/modules/stripe-payments/country-codes.php:163
+msgid "Luxembourg"
+msgstr ""
+
+#: app/utils/country-list.php:530, app/modules/stripe-payments/country-codes.php:164
+msgid "Macao"
+msgstr ""
+
+#: app/utils/country-list.php:534, app/modules/stripe-payments/country-codes.php:165
+msgid "Macedonia"
+msgstr ""
+
+#: app/utils/country-list.php:538, app/modules/stripe-payments/country-codes.php:166
+msgid "Madagascar"
+msgstr ""
+
+#: app/utils/country-list.php:542, app/modules/stripe-payments/country-codes.php:167
+msgid "Malawi"
+msgstr ""
+
+#: app/utils/country-list.php:546, app/modules/stripe-payments/country-codes.php:168
+msgid "Malaysia"
+msgstr ""
+
+#: app/utils/country-list.php:550, app/modules/stripe-payments/country-codes.php:169
+msgid "Maldives"
+msgstr ""
+
+#: app/utils/country-list.php:554, app/modules/stripe-payments/country-codes.php:170
+msgid "Mali"
+msgstr ""
+
+#: app/utils/country-list.php:558, app/modules/stripe-payments/country-codes.php:171
+msgid "Malta"
+msgstr ""
+
+#: app/utils/country-list.php:562, app/modules/stripe-payments/country-codes.php:172
+msgid "Marshall Islands"
+msgstr ""
+
+#: app/utils/country-list.php:566, app/modules/stripe-payments/country-codes.php:173
+msgid "Martinique"
+msgstr ""
+
+#: app/utils/country-list.php:570, app/modules/stripe-payments/country-codes.php:174
+msgid "Mauritania"
+msgstr ""
+
+#: app/utils/country-list.php:574, app/modules/stripe-payments/country-codes.php:175
+msgid "Mauritius"
+msgstr ""
+
+#: app/utils/country-list.php:578, app/modules/stripe-payments/country-codes.php:176
+msgid "Mayotte"
+msgstr ""
+
+#: app/utils/country-list.php:582, app/modules/stripe-payments/country-codes.php:177
+msgid "Mexico"
+msgstr ""
+
+#: app/utils/country-list.php:586, app/modules/stripe-payments/country-codes.php:178
+msgid "Micronesia, Federated States Of"
+msgstr ""
+
+#: app/utils/country-list.php:590, app/modules/stripe-payments/country-codes.php:179
+msgid "Moldova"
+msgstr ""
+
+#: app/utils/country-list.php:594, app/modules/stripe-payments/country-codes.php:180
+msgid "Monaco"
+msgstr ""
+
+#: app/utils/country-list.php:598, app/modules/stripe-payments/country-codes.php:181
+msgid "Mongolia"
+msgstr ""
+
+#: app/utils/country-list.php:602, app/modules/stripe-payments/country-codes.php:182
+msgid "Montenegro"
+msgstr ""
+
+#: app/utils/country-list.php:606, app/modules/stripe-payments/country-codes.php:183
+msgid "Montserrat"
+msgstr ""
+
+#: app/utils/country-list.php:610, app/modules/stripe-payments/country-codes.php:184
+msgid "Morocco"
+msgstr ""
+
+#: app/utils/country-list.php:614, app/modules/stripe-payments/country-codes.php:185
+msgid "Mozambique"
+msgstr ""
+
+#: app/utils/country-list.php:618, app/modules/stripe-payments/country-codes.php:186
+msgid "Myanmar"
+msgstr ""
+
+#: app/utils/country-list.php:622, app/modules/stripe-payments/country-codes.php:187
+msgid "Namibia"
+msgstr ""
+
+#: app/utils/country-list.php:626, app/modules/stripe-payments/country-codes.php:188
+msgid "Nauru"
+msgstr ""
+
+#: app/utils/country-list.php:630, app/modules/stripe-payments/country-codes.php:189
+msgid "Nepal"
+msgstr ""
+
+#: app/utils/country-list.php:634, app/modules/stripe-payments/country-codes.php:190
+msgid "Netherlands"
+msgstr ""
+
+#: app/utils/country-list.php:638
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: app/utils/country-list.php:642, app/modules/stripe-payments/country-codes.php:191
+msgid "New Caledonia"
+msgstr ""
+
+#: app/utils/country-list.php:646, app/modules/stripe-payments/country-codes.php:192
+msgid "New Zealand"
+msgstr ""
+
+#: app/utils/country-list.php:650, app/modules/stripe-payments/country-codes.php:193
+msgid "Nicaragua"
+msgstr ""
+
+#: app/utils/country-list.php:654, app/modules/stripe-payments/country-codes.php:194
+msgid "Niger"
+msgstr ""
+
+#: app/utils/country-list.php:658, app/modules/stripe-payments/country-codes.php:195
+msgid "Nigeria"
+msgstr ""
+
+#: app/utils/country-list.php:662, app/modules/stripe-payments/country-codes.php:196
+msgid "Niue"
+msgstr ""
+
+#: app/utils/country-list.php:666, app/modules/stripe-payments/country-codes.php:197
+msgid "Norfolk Island"
+msgstr ""
+
+#: app/utils/country-list.php:670, app/modules/stripe-payments/country-codes.php:198
+msgid "North Korea"
+msgstr ""
+
+#: app/utils/country-list.php:674, app/modules/stripe-payments/country-codes.php:199
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: app/utils/country-list.php:678, app/modules/stripe-payments/country-codes.php:200
+msgid "Norway"
+msgstr ""
+
+#: app/utils/country-list.php:682, app/modules/stripe-payments/country-codes.php:201
+msgid "Oman"
+msgstr ""
+
+#: app/utils/country-list.php:686, app/modules/stripe-payments/country-codes.php:202
+msgid "Pakistan"
+msgstr ""
+
+#: app/utils/country-list.php:690, app/modules/stripe-payments/country-codes.php:203
+msgid "Palau"
+msgstr ""
+
+#: app/utils/country-list.php:694, app/modules/stripe-payments/country-codes.php:204
+msgid "Palestinian Territory, Occupied"
+msgstr ""
+
+#: app/utils/country-list.php:698, app/modules/stripe-payments/country-codes.php:205
+msgid "Panama"
+msgstr ""
+
+#: app/utils/country-list.php:702, app/modules/stripe-payments/country-codes.php:206
+msgid "Papua New Guinea"
+msgstr ""
+
+#: app/utils/country-list.php:706, app/modules/stripe-payments/country-codes.php:207
+msgid "Paraguay"
+msgstr ""
+
+#: app/utils/country-list.php:710, app/modules/stripe-payments/country-codes.php:208
+msgid "Peru"
+msgstr ""
+
+#: app/utils/country-list.php:714, app/modules/stripe-payments/country-codes.php:209
+msgid "Philippines"
+msgstr ""
+
+#: app/utils/country-list.php:718, app/modules/stripe-payments/country-codes.php:210
+msgid "Pitcairn"
+msgstr ""
+
+#: app/utils/country-list.php:722, app/modules/stripe-payments/country-codes.php:211
+msgid "Poland"
+msgstr ""
+
+#: app/utils/country-list.php:726, app/modules/stripe-payments/country-codes.php:212
+msgid "Portugal"
+msgstr ""
+
+#: app/utils/country-list.php:730, app/modules/stripe-payments/country-codes.php:213
+msgid "Puerto Rico"
+msgstr ""
+
+#: app/utils/country-list.php:734, app/modules/stripe-payments/country-codes.php:214
+msgid "Qatar"
+msgstr ""
+
+#: app/utils/country-list.php:738, app/modules/stripe-payments/country-codes.php:215
+msgid "Reunion"
+msgstr ""
+
+#: app/utils/country-list.php:742, app/modules/stripe-payments/country-codes.php:216
+msgid "Romania"
+msgstr ""
+
+#: app/utils/country-list.php:746, app/modules/stripe-payments/country-codes.php:217
+msgid "Russian Federation"
+msgstr ""
+
+#: app/utils/country-list.php:750, app/modules/stripe-payments/country-codes.php:218
+msgid "Rwanda"
+msgstr ""
+
+#: app/utils/country-list.php:754, app/modules/stripe-payments/country-codes.php:219
+msgid "Saint Barthelemy"
+msgstr ""
+
+#: app/utils/country-list.php:758, app/modules/stripe-payments/country-codes.php:220
+msgid "Saint Helena"
+msgstr ""
+
+#: app/utils/country-list.php:762, app/modules/stripe-payments/country-codes.php:221
+msgid "Saint Kitts And Nevis"
+msgstr ""
+
+#: app/utils/country-list.php:766, app/modules/stripe-payments/country-codes.php:222
+msgid "Saint Lucia"
+msgstr ""
+
+#: app/utils/country-list.php:770, app/modules/stripe-payments/country-codes.php:223
+msgid "Saint Martin"
+msgstr ""
+
+#: app/utils/country-list.php:774, app/modules/stripe-payments/country-codes.php:224
+msgid "Saint Pierre And Miquelon"
+msgstr ""
+
+#: app/utils/country-list.php:778, app/modules/stripe-payments/country-codes.php:225
+msgid "Saint Vincent And Grenadines"
+msgstr ""
+
+#: app/utils/country-list.php:782, app/modules/stripe-payments/country-codes.php:226
+msgid "Samoa"
+msgstr ""
+
+#: app/utils/country-list.php:786, app/modules/stripe-payments/country-codes.php:227
+msgid "San Marino"
+msgstr ""
+
+#: app/utils/country-list.php:790, app/modules/stripe-payments/country-codes.php:228
+msgid "Sao Tome And Principe"
+msgstr ""
+
+#: app/utils/country-list.php:794, app/modules/stripe-payments/country-codes.php:229
+msgid "Saudi Arabia"
+msgstr ""
+
+#: app/utils/country-list.php:798, app/modules/stripe-payments/country-codes.php:230
+msgid "Senegal"
+msgstr ""
+
+#: app/utils/country-list.php:802, app/modules/stripe-payments/country-codes.php:231
+msgid "Serbia"
+msgstr ""
+
+#: app/utils/country-list.php:806, app/modules/stripe-payments/country-codes.php:232
+msgid "Seychelles"
+msgstr ""
+
+#: app/utils/country-list.php:810, app/modules/stripe-payments/country-codes.php:233
+msgid "Sierra Leone"
+msgstr ""
+
+#: app/utils/country-list.php:814, app/modules/stripe-payments/country-codes.php:234
+msgid "Singapore"
+msgstr ""
+
+#: app/utils/country-list.php:818, app/modules/stripe-payments/country-codes.php:235
+msgid "Sint Maarten"
+msgstr ""
+
+#: app/utils/country-list.php:822, app/modules/stripe-payments/country-codes.php:236
+msgid "Slovakia"
+msgstr ""
+
+#: app/utils/country-list.php:826, app/modules/stripe-payments/country-codes.php:237
+msgid "Slovenia"
+msgstr ""
+
+#: app/utils/country-list.php:830, app/modules/stripe-payments/country-codes.php:238
+msgid "Solomon Islands"
+msgstr ""
+
+#: app/utils/country-list.php:834, app/modules/stripe-payments/country-codes.php:239
+msgid "Somalia"
+msgstr ""
+
+#: app/utils/country-list.php:838, app/modules/stripe-payments/country-codes.php:240
+msgid "South Africa"
+msgstr ""
+
+#: app/utils/country-list.php:842, app/modules/stripe-payments/country-codes.php:241
+msgid "South Georgia And Sandwich Isl."
+msgstr ""
+
+#: app/utils/country-list.php:846, app/modules/stripe-payments/country-codes.php:242
+msgid "South Korea"
+msgstr ""
+
+#: app/utils/country-list.php:850, app/modules/stripe-payments/country-codes.php:243
+msgid "South Sudan"
+msgstr ""
+
+#: app/utils/country-list.php:854, app/modules/stripe-payments/country-codes.php:244
+msgid "Spain"
+msgstr ""
+
+#: app/utils/country-list.php:858, app/modules/stripe-payments/country-codes.php:245
+msgid "Sri Lanka"
+msgstr ""
+
+#: app/utils/country-list.php:862, app/modules/stripe-payments/country-codes.php:246
+msgid "Sudan"
+msgstr ""
+
+#: app/utils/country-list.php:866, app/modules/stripe-payments/country-codes.php:247
+msgid "Suriname"
+msgstr ""
+
+#: app/utils/country-list.php:870, app/modules/stripe-payments/country-codes.php:248
+msgid "Svalbard And Jan Mayen"
+msgstr ""
+
+#: app/utils/country-list.php:874, app/modules/stripe-payments/country-codes.php:249
+msgid "Swaziland"
+msgstr ""
+
+#: app/utils/country-list.php:878, app/modules/stripe-payments/country-codes.php:250
+msgid "Sweden"
+msgstr ""
+
+#: app/utils/country-list.php:882, app/modules/stripe-payments/country-codes.php:251
+msgid "Switzerland"
+msgstr ""
+
+#: app/utils/country-list.php:886, app/modules/stripe-payments/country-codes.php:252
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: app/utils/country-list.php:890, app/modules/stripe-payments/country-codes.php:253
+msgid "Taiwan"
+msgstr ""
+
+#: app/utils/country-list.php:894, app/modules/stripe-payments/country-codes.php:254
+msgid "Tajikistan"
+msgstr ""
+
+#: app/utils/country-list.php:898, app/modules/stripe-payments/country-codes.php:255
+msgid "Tanzania"
+msgstr ""
+
+#: app/utils/country-list.php:902, app/modules/stripe-payments/country-codes.php:256
+msgid "Thailand"
+msgstr ""
+
+#: app/utils/country-list.php:906, app/modules/stripe-payments/country-codes.php:257
+msgid "Timor-Leste"
+msgstr ""
+
+#: app/utils/country-list.php:910, app/modules/stripe-payments/country-codes.php:258
+msgid "Togo"
+msgstr ""
+
+#: app/utils/country-list.php:914, app/modules/stripe-payments/country-codes.php:259
+msgid "Tokelau"
+msgstr ""
+
+#: app/utils/country-list.php:918, app/modules/stripe-payments/country-codes.php:260
+msgid "Tonga"
+msgstr ""
+
+#: app/utils/country-list.php:922, app/modules/stripe-payments/country-codes.php:261
+msgid "Trinidad And Tobago"
+msgstr ""
+
+#: app/utils/country-list.php:926, app/modules/stripe-payments/country-codes.php:262
+msgid "Tunisia"
+msgstr ""
+
+#: app/utils/country-list.php:930, app/modules/stripe-payments/country-codes.php:263
+msgid "Turkey"
+msgstr ""
+
+#: app/utils/country-list.php:934, app/modules/stripe-payments/country-codes.php:264
+msgid "Turkmenistan"
+msgstr ""
+
+#: app/utils/country-list.php:938, app/modules/stripe-payments/country-codes.php:265
+msgid "Turks And Caicos Islands"
+msgstr ""
+
+#: app/utils/country-list.php:942, app/modules/stripe-payments/country-codes.php:266
+msgid "Tuvalu"
+msgstr ""
+
+#: app/utils/country-list.php:946, app/modules/stripe-payments/country-codes.php:267
+msgid "Uganda"
+msgstr ""
+
+#: app/utils/country-list.php:950, app/modules/stripe-payments/country-codes.php:268
+msgid "Ukraine"
+msgstr ""
+
+#: app/utils/country-list.php:954, app/modules/stripe-payments/country-codes.php:269
+msgid "United Arab Emirates"
+msgstr ""
+
+#: app/utils/country-list.php:958, app/modules/stripe-payments/country-codes.php:270
+msgid "United Kingdom"
+msgstr ""
+
+#: app/utils/country-list.php:962, app/modules/stripe-payments/country-codes.php:271
+msgid "United States"
+msgstr ""
+
+#: app/utils/country-list.php:966, app/modules/stripe-payments/country-codes.php:272
+msgid "United States Outlying Islands"
+msgstr ""
+
+#: app/utils/country-list.php:970, app/modules/stripe-payments/country-codes.php:273
+msgid "Uruguay"
+msgstr ""
+
+#: app/utils/country-list.php:974, app/modules/stripe-payments/country-codes.php:274
+msgid "Uzbekistan"
+msgstr ""
+
+#: app/utils/country-list.php:978, app/modules/stripe-payments/country-codes.php:275
+msgid "Vanuatu"
+msgstr ""
+
+#: app/utils/country-list.php:982, app/modules/stripe-payments/country-codes.php:276
+msgid "Venezuela"
+msgstr ""
+
+#: app/utils/country-list.php:986, app/modules/stripe-payments/country-codes.php:277
+msgid "Viet Nam"
+msgstr ""
+
+#: app/utils/country-list.php:990, app/modules/stripe-payments/country-codes.php:278
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: app/utils/country-list.php:994, app/modules/stripe-payments/country-codes.php:279
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: app/utils/country-list.php:998, app/modules/stripe-payments/country-codes.php:280
+msgid "Wallis And Futuna"
+msgstr ""
+
+#: app/utils/country-list.php:1002, app/modules/stripe-payments/country-codes.php:281
+msgid "Western Sahara"
+msgstr ""
+
+#: app/utils/country-list.php:1006, app/modules/stripe-payments/country-codes.php:282
+msgid "Yemen"
+msgstr ""
+
+#: app/utils/country-list.php:1010, app/modules/stripe-payments/country-codes.php:283
+msgid "Zambia"
+msgstr ""
+
+#: app/utils/country-list.php:1014, app/modules/stripe-payments/country-codes.php:284
+msgid "Zimbabwe"
+msgstr ""

@@ -1,0 +1,2030 @@
+# Copyright (C) 2025 Voxel
+# This file is distributed under the same license as the Voxel package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Voxel\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-18 02:40+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: app/controllers/event-controller.php:22, app/controllers/event-controller.php:23
+msgid "App Events"
+msgstr ""
+
+#: app/controllers/event-controller.php:68
+msgid "Permission check failed."
+msgstr ""
+
+#: app/controllers/event-controller.php:107
+msgid "Changes saved."
+msgstr ""
+
+#: app/controllers/nav-menus-controller.php:20
+msgid "Desktop Menu"
+msgstr ""
+
+#: app/controllers/nav-menus-controller.php:21
+msgid "Mobile menu"
+msgstr ""
+
+#: app/controllers/nav-menus-controller.php:22
+msgid "User Dashboard Menu"
+msgstr ""
+
+#: app/controllers/nav-menus-controller.php:23
+msgid "Create post menu"
+msgstr ""
+
+#: app/controllers/post-controller.php:62
+msgid "Fields"
+msgstr ""
+
+#: app/controllers/post-controller.php:62
+msgid "Edit in frontend form"
+msgstr ""
+
+#: app/controllers/post-controller.php:78
+msgid "Post type not provided."
+msgstr ""
+
+#: app/controllers/post-controller.php:83, app/controllers/post-controller.php:87, app/controllers/post-controller.php:91
+msgid "You cannot edit this post."
+msgstr ""
+
+#: app/controllers/post-controller.php:108
+msgid "An error occurred."
+msgstr ""
+
+#: app/controllers/post-controller.php:189
+msgid "Verified"
+msgstr ""
+
+#: app/controllers/post-controller.php:190
+msgid "Unverified"
+msgstr ""
+
+#: app/controllers/post-controller.php:207
+msgctxt "author metabox"
+msgid "Author"
+msgstr ""
+
+#: app/controllers/post-controller.php:245
+msgctxt "expiry metabox"
+msgid "Expiration date"
+msgstr ""
+
+#: app/controllers/post-controller.php:280
+msgctxt "promotion metabox"
+msgid "Promotion package"
+msgstr ""
+
+#: app/controllers/post-controller.php:316
+msgctxt "priority metabox"
+msgid "Priority"
+msgstr ""
+
+#: app/controllers/post-type-controller.php:82
+msgctxt "unknown revision author"
+msgid "(unknown)"
+msgstr ""
+
+#: app/controllers/post-type-controller.php:474, app/controllers/post-type-controller.php:509, app/controllers/post-type-controller.php:542, app/controllers/post-type-controller.php:573, app/modules/elementor/controllers/elementor-controller.php:383
+msgid "Permission denied."
+msgstr ""
+
+#: app/controllers/post-type-controller.php:481, app/controllers/post-type-controller.php:516, app/controllers/post-type-controller.php:549, app/controllers/post-type-controller.php:580
+msgid "Missing post type or timestamp."
+msgstr ""
+
+#: app/controllers/post-type-controller.php:493, app/controllers/post-type-controller.php:521, app/controllers/post-type-controller.php:554
+msgid "Could not find requested revision."
+msgstr ""
+
+#: app/controllers/post-type-controller.php:584
+msgid "Provided config file is not valid."
+msgstr ""
+
+#: app/controllers/post-types-controller.php:146
+msgid "Rejected <span class=\"count\">(%s)</span>"
+msgid_plural "Rejected <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/controllers/post-types-controller.php:154
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/controllers/post-types-controller.php:161
+msgid "Unpublished <span class=\"count\">(%s)</span>"
+msgid_plural "Unpublished <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/controllers/post-types-controller.php:173, app/controllers/post-types-controller.php:175
+msgctxt "post statuses"
+msgid "Rejected"
+msgstr ""
+
+#: app/controllers/post-types-controller.php:178, app/controllers/post-types-controller.php:180
+msgctxt "post statuses"
+msgid "Expired"
+msgstr ""
+
+#: app/controllers/post-types-controller.php:183, app/controllers/post-types-controller.php:185
+msgctxt "post statuses"
+msgid "Unpublished"
+msgstr ""
+
+#: app/controllers/post-types-controller.php:270, app/controllers/post-types-controller.php:271
+msgid "Structure"
+msgstr ""
+
+#: app/controllers/post-types-controller.php:296, app/controllers/post-types-controller.php:297
+msgid "Edit post type"
+msgstr ""
+
+#: app/product-types/order-list-table.php:14
+msgctxt "orders table"
+msgid "ID"
+msgstr ""
+
+#: app/product-types/order-list-table.php:15
+msgctxt "orders table"
+msgid "Customer"
+msgstr ""
+
+#: app/product-types/order-list-table.php:16
+msgctxt "orders table"
+msgid "Amount"
+msgstr ""
+
+#: app/product-types/order-list-table.php:17
+msgctxt "orders table"
+msgid "Status"
+msgstr ""
+
+#: app/product-types/order-list-table.php:18
+msgctxt "orders table"
+msgid "Vendor"
+msgstr ""
+
+#: app/product-types/order-list-table.php:19
+msgctxt "orders table"
+msgid "Date"
+msgstr ""
+
+#: app/product-types/order-list-table.php:136
+msgctxt "orders table"
+msgid "Details"
+msgstr ""
+
+#: app/product-types/order-list-table.php:113
+msgctxt "orders table"
+msgid "Platform"
+msgstr ""
+
+#: app/product-types/order-list-table.php:174
+msgctxt "orders table"
+msgid "All"
+msgstr ""
+
+#: app/product-types/order-list-table.php:223
+msgctxt "orders table"
+msgid "Search orders"
+msgstr ""
+
+#: app/product-types/order-list-table.php:224
+msgctxt "orders table"
+msgid "Search customer"
+msgstr ""
+
+#: app/product-types/order-list-table.php:225
+msgctxt "orders table"
+msgid "Search vendor"
+msgstr ""
+
+#: app/utils/template-utils.php:289
+msgid "Default Header"
+msgstr ""
+
+#: app/utils/template-utils.php:297
+msgid "Default Footer"
+msgstr ""
+
+#: app/utils/template-utils.php:305
+msgid "Newsfeed"
+msgstr ""
+
+#: app/utils/template-utils.php:313
+msgid "Inbox"
+msgstr ""
+
+#: app/utils/template-utils.php:321
+msgid "Post statistics"
+msgstr ""
+
+#: app/utils/template-utils.php:329
+msgid "Privacy Policy"
+msgstr ""
+
+#: app/utils/template-utils.php:337
+msgid "Terms & Conditions"
+msgstr ""
+
+#: app/utils/template-utils.php:345
+msgid "404 Not Found"
+msgstr ""
+
+#: app/utils/template-utils.php:353
+msgid "Restricted content"
+msgstr ""
+
+#: app/utils/template-utils.php:363
+msgid "Login & registration"
+msgstr ""
+
+#: app/utils/template-utils.php:371
+msgid "Current plan"
+msgstr ""
+
+#: app/utils/template-utils.php:381
+msgid "Orders page"
+msgstr ""
+
+#: app/utils/template-utils.php:397
+msgid "Cart summary"
+msgstr ""
+
+#: app/utils/template-utils.php:405
+msgid "Stripe Connect account"
+msgstr ""
+
+#: app/utils/template-utils.php:423
+msgid "Popup styles"
+msgstr ""
+
+#: app/utils/template-utils.php:431
+msgid "Timeline styles"
+msgstr ""
+
+#: app/widgets/gallery.php:181, app/modules/elementor/controllers/elementor-controller.php:681
+msgid "Aspect ratio"
+msgstr ""
+
+#: app/widgets/gallery.php:182, app/widgets/slider.php:188, app/modules/elementor/controllers/elementor-controller.php:682
+msgid "Set image aspect ratio e.g 16/9"
+msgstr ""
+
+#: app/widgets/map.php:56
+msgid "Yes"
+msgstr ""
+
+#: app/widgets/map.php:57
+msgid "No"
+msgstr ""
+
+#: app/widgets/map.php:161
+msgctxt "Explore map"
+msgid "Default latitude"
+msgstr ""
+
+#: app/widgets/map.php:171
+msgctxt "Explore map"
+msgid "Default longitude"
+msgstr ""
+
+#: app/widgets/map.php:181
+msgctxt "Explore map"
+msgid "Default zoom level"
+msgstr ""
+
+#: app/widgets/map.php:189
+msgctxt "Explore map"
+msgid "Minimum zoom level"
+msgstr ""
+
+#: app/widgets/map.php:199
+msgctxt "Explore map"
+msgid "Maximum zoom level"
+msgstr ""
+
+#: app/widgets/slider.php:187
+msgid "Image aspect ratio"
+msgstr ""
+
+#: app/controllers/async/create-taxonomy-action.php:26
+msgid "Taxonomy label and key are required."
+msgstr ""
+
+#: app/controllers/async/create-taxonomy-action.php:30
+msgid "A taxonomy with this key already exists."
+msgstr ""
+
+#: app/controllers/async/create-taxonomy-action.php:48
+msgid "Taxonomy created."
+msgstr ""
+
+#: app/controllers/async/general-actions.php:25, app/controllers/async/general-actions.php:71, app/controllers/async/general-actions.php:114, app/controllers/frontend/timeline/suggestions-controller.php:26
+msgid "No search term provided."
+msgstr ""
+
+#: app/controllers/async/index-posts-action.php:25, app/controllers/async/index-posts-action.php:99, app/controllers/async/index-posts-action.php:111
+msgid "Post type not found."
+msgstr ""
+
+#: app/controllers/async/index-posts-action.php:31
+msgid "Another indexing request is in process for this post type."
+msgstr ""
+
+#: app/controllers/compat/rank-math-controller.php:28
+msgctxt "rank math"
+msgid "Dynamic Tag (VX)"
+msgstr ""
+
+#: app/controllers/compat/rank-math-controller.php:29
+msgctxt "rank math"
+msgid "Output the value of a dynamic tag"
+msgstr ""
+
+#: app/controllers/ecommerce/ecommerce-controller.php:34, app/controllers/ecommerce/ecommerce-controller.php:35
+msgid "Ecommerce"
+msgstr ""
+
+#: app/controllers/ecommerce/ecommerce-controller.php:42
+msgid "Order not found."
+msgstr ""
+
+#: app/controllers/ecommerce/ecommerce-controller.php:77, app/controllers/ecommerce/ecommerce-controller.php:78, app/controllers/timeline/timeline-controller.php:211, app/controllers/timeline/timeline-controller.php:212, app/modules/paid-listings/controllers/backend/backend-controller.php:91, app/modules/paid-listings/controllers/backend/backend-controller.php:92
+msgid "Settings"
+msgstr ""
+
+#: app/controllers/library/import-controller.php:89
+msgctxt "vx-library"
+msgid "Could not download package."
+msgstr ""
+
+#: app/controllers/library/import-controller.php:95
+msgctxt "vx-library"
+msgid "Couldn't download package: "
+msgstr ""
+
+#: app/controllers/library/import-controller.php:101, app/controllers/library/import-controller.php:47
+msgctxt "vx-library"
+msgid "Unpacking failed: "
+msgstr ""
+
+#: app/controllers/library/import-controller.php:198
+msgctxt "vx-library"
+msgid "Package does not contain any data for import."
+msgstr ""
+
+#: app/controllers/library/library-controller.php:44, app/controllers/library/library-controller.php:45
+msgid "Library"
+msgstr ""
+
+#: app/controllers/library/library-controller.php:153
+msgctxt "vx-library"
+msgid "Could not retrieve library, please try later."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:142, app/controllers/onboarding/onboarding-controller.php:165
+msgctxt "onboarding"
+msgid "Verification request failed, please try again."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:146
+msgctxt "onboarding"
+msgid "Could not download package, please try again."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:153
+msgctxt "onboarding"
+msgid "Couldn't download demo: "
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:166
+msgctxt "onboarding"
+msgid "Unpacking..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:186, app/controllers/onboarding/onboarding-controller.php:108, app/controllers/onboarding/onboarding-controller.php:82
+msgctxt "onboarding"
+msgid "Unpacking failed: "
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:199
+msgctxt "onboarding"
+msgid "Importing media..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:261
+msgctxt "onboarding"
+msgid "Generating attachments..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:307
+msgctxt "onboarding"
+msgid "Generating attachments (@amount remaining)"
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:323
+msgctxt "onboarding"
+msgid "Importing site options..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:444
+msgctxt "onboarding"
+msgid "Creating index tables..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:474
+msgctxt "onboarding"
+msgid "Importing terms..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:534
+msgctxt "onboarding"
+msgid "Importing posts..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:629
+msgctxt "onboarding"
+msgid "Importing layouts..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:657
+msgctxt "onboarding"
+msgid "Importing menus..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:726
+msgctxt "onboarding"
+msgid "Mapping data..."
+msgstr ""
+
+#: app/controllers/onboarding/demo-import-controller.php:749
+msgctxt "onboarding"
+msgid "Finishing up..."
+msgstr ""
+
+#: app/controllers/onboarding/onboarding-controller.php:98
+msgctxt "onboarding"
+msgid "Couldn't download Voxel Elements: "
+msgstr ""
+
+#: app/controllers/onboarding/onboarding-controller.php:72
+msgctxt "onboarding"
+msgid "Couldn't download Elementor: "
+msgstr ""
+
+#: app/controllers/onboarding/onboarding-controller.php:139, app/controllers/onboarding/onboarding-controller.php:143
+msgctxt "onboarding"
+msgid "Invalid license key."
+msgstr ""
+
+#: app/controllers/onboarding/onboarding-controller.php:148
+msgctxt "onboarding"
+msgid "Site environment not provided."
+msgstr ""
+
+#: app/controllers/onboarding/onboarding-controller.php:169
+msgctxt "onboarding"
+msgid "Could not verify license."
+msgstr ""
+
+#: app/controllers/settings/settings-controller.php:21
+msgid "Voxel settings"
+msgstr ""
+
+#: app/controllers/settings/settings-controller.php:22, app/modules/elementor/controllers/elementor-controller.php:419
+msgid "Voxel"
+msgstr ""
+
+#: app/controllers/taxonomies/taxonomy-controller.php:220, app/controllers/taxonomies/taxonomy-controller.php:221, app/controllers/templates/templates-controller.php:67, app/controllers/templates/templates-controller.php:68
+msgid "Taxonomies"
+msgstr ""
+
+#: app/controllers/taxonomies/term-post-cache-controller.php:24
+msgid "Taxonomy not found."
+msgstr ""
+
+#: app/controllers/templates/base-templates-controller.php:21, app/controllers/templates/base-templates-controller.php:28, app/controllers/templates/base-templates-controller.php:40, app/controllers/templates/base-templates-controller.php:44, app/controllers/templates/base-templates-controller.php:64, app/controllers/templates/base-templates-controller.php:84, app/controllers/templates/base-templates-controller.php:91, app/controllers/templates/base-templates-controller.php:103, app/controllers/templates/base-templates-controller.php:136, app/controllers/templates/base-templates-controller.php:143, app/controllers/templates/base-templates-controller.php:155, app/controllers/templates/custom-templates-controller.php:23, app/controllers/templates/custom-templates-controller.php:30, app/controllers/templates/custom-templates-controller.php:76, app/controllers/templates/custom-templates-controller.php:84, app/controllers/templates/custom-templates-controller.php:131, app/controllers/templates/custom-templates-controller.php:139, app/controllers/templates/custom-templates-controller.php:171, app/controllers/templates/custom-templates-controller.php:179, app/controllers/templates/custom-templates-controller.php:215, app/controllers/timeline/timeline-actions-controller.php:35, app/controllers/timeline/timeline-actions-controller.php:62, app/controllers/timeline/timeline-actions-controller.php:89, app/controllers/timeline/timeline-actions-controller.php:116, app/controllers/timeline/timeline-actions-controller.php:143, app/controllers/timeline/timeline-actions-controller.php:259, app/controllers/timeline/timeline-actions-controller.php:377, app/controllers/timeline/timeline-actions-controller.php:420, app/controllers/timeline/timeline-actions-controller.php:455, app/controllers/timeline/timeline-actions-controller.php:490, app/controllers/templates/post-types/post-type-base-templates-controller.php:21, app/controllers/templates/post-types/post-type-base-templates-controller.php:67, app/controllers/templates/post-types/post-type-base-templates-controller.php:117, app/controllers/templates/post-types/post-type-custom-templates-controller.php:23, app/controllers/templates/post-types/post-type-custom-templates-controller.php:35, app/controllers/templates/post-types/post-type-custom-templates-controller.php:84, app/controllers/templates/post-types/post-type-custom-templates-controller.php:97, app/controllers/templates/post-types/post-type-custom-templates-controller.php:145, app/controllers/templates/post-types/post-type-custom-templates-controller.php:158, app/controllers/templates/post-types/post-type-custom-templates-controller.php:191, app/controllers/templates/post-types/post-type-custom-templates-controller.php:196, app/controllers/templates/post-types/post-type-custom-templates-controller.php:225, app/controllers/templates/post-types/post-type-custom-templates-controller.php:230, app/controllers/templates/post-types/post-type-custom-templates-controller.php:238, app/modules/paid-listings/controllers/backend/settings-controller.php:63, app/modules/paid-memberships/controllers/backend/member-controller.php:28, app/modules/paid-memberships/controllers/backend/member-controller.php:32, app/modules/paid-memberships/controllers/backend/member-controller.php:39, app/modules/paid-memberships/controllers/backend/member-controller.php:46, app/modules/paid-memberships/controllers/backend/plan-controller.php:136, app/modules/paid-memberships/controllers/backend/plan-controller.php:140, app/modules/paid-memberships/controllers/backend/plan-controller.php:175, app/modules/paid-memberships/controllers/backend/plan-controller.php:202
+msgid "Invalid request."
+msgstr ""
+
+#: app/controllers/templates/base-templates-controller.php:108, app/controllers/templates/post-types/post-type-base-templates-controller.php:84
+msgid "Enter the ID of the new template."
+msgstr ""
+
+#: app/controllers/templates/base-templates-controller.php:115, app/controllers/templates/post-types/post-type-base-templates-controller.php:91
+msgid "Provided template does not exist."
+msgstr ""
+
+#: app/controllers/templates/base-templates-controller.php:113, app/controllers/templates/post-types/post-type-base-templates-controller.php:89, app/modules/paid-listings/controllers/backend/settings-controller.php:121, app/modules/paid-memberships/controllers/backend/plan-controller.php:207
+msgid "Provided page template does not exist."
+msgstr ""
+
+#: app/controllers/templates/custom-templates-controller.php:35, app/controllers/templates/post-types/post-type-custom-templates-controller.php:40
+msgid "Template label is required."
+msgstr ""
+
+#: app/controllers/templates/custom-templates-controller.php:40, app/controllers/templates/post-types/post-type-base-templates-controller.php:26, app/controllers/templates/post-types/post-type-base-templates-controller.php:53, app/controllers/templates/post-types/post-type-base-templates-controller.php:38, app/controllers/templates/post-types/post-type-custom-templates-controller.php:28, app/controllers/templates/post-types/post-type-custom-templates-controller.php:48
+msgid "Could not create template"
+msgstr ""
+
+#: app/controllers/templates/custom-templates-controller.php:91, app/controllers/templates/post-types/post-type-custom-templates-controller.php:104
+msgid "Template ID cannot be empty"
+msgstr ""
+
+#: app/controllers/templates/custom-templates-controller.php:96, app/controllers/templates/post-types/post-type-custom-templates-controller.php:109
+msgid "Provided template does not exist"
+msgstr ""
+
+#: app/controllers/templates/custom-templates-controller.php:101, app/controllers/templates/post-types/post-type-custom-templates-controller.php:114
+msgid "Template label cannot be empty"
+msgstr ""
+
+#: app/controllers/templates/custom-templates-controller.php:117, app/controllers/templates/custom-templates-controller.php:157, app/controllers/templates/custom-templates-controller.php:201, app/controllers/templates/post-types/post-type-custom-templates-controller.php:132, app/controllers/templates/post-types/post-type-custom-templates-controller.php:178
+msgid "Could not update template."
+msgstr ""
+
+#: app/controllers/templates/templates-controller.php:18, app/controllers/templates/templates-controller.php:19
+msgid "Design"
+msgstr ""
+
+#: app/controllers/templates/templates-controller.php:43, app/controllers/templates/templates-controller.php:44
+msgid "Header & Footer"
+msgstr ""
+
+#: app/controllers/templates/templates-controller.php:128
+msgctxt "templates"
+msgid "Auth Page"
+msgstr ""
+
+#: app/controllers/templates/templates-controller.php:129
+msgctxt "templates"
+msgid "Pricing Plans Page"
+msgstr ""
+
+#: app/controllers/templates/templates-controller.php:130
+msgctxt "templates"
+msgid "Current Plan Page"
+msgstr ""
+
+#: app/controllers/templates/templates-controller.php:131
+msgctxt "templates"
+msgid "Orders Page"
+msgstr ""
+
+#: app/controllers/templates/templates-controller.php:134
+msgctxt "templates"
+msgid "Terms & Conditions"
+msgstr ""
+
+#: app/controllers/templates/templates-controller.php:135
+msgctxt "templates"
+msgid "Seller Dashboard"
+msgstr ""
+
+#: app/controllers/timeline/timeline-actions-controller.php:41, app/controllers/timeline/timeline-actions-controller.php:68, app/controllers/timeline/timeline-actions-controller.php:95, app/controllers/timeline/timeline-actions-controller.php:122
+msgid "Post not found."
+msgstr ""
+
+#: app/controllers/timeline/timeline-actions-controller.php:383, app/controllers/timeline/timeline-actions-controller.php:426, app/controllers/timeline/timeline-actions-controller.php:461, app/controllers/timeline/timeline-actions-controller.php:496
+msgid "Reply not found."
+msgstr ""
+
+#: app/controllers/timeline/timeline-controller.php:179, app/controllers/timeline/timeline-controller.php:180
+msgid "Timeline"
+msgstr ""
+
+#: app/controllers/timeline/timeline-controller.php:197, app/controllers/timeline/timeline-controller.php:198
+msgid "Replies"
+msgstr ""
+
+#: app/controllers/users/profiles-controller.php:65, app/controllers/users/profiles-controller.php:70
+msgid "(unknown)"
+msgstr ""
+
+#: app/controllers/users/profiles-controller.php:87
+msgid "View Profile"
+msgstr ""
+
+#: app/controllers/users/profiles-controller.php:88
+msgid "Edit User"
+msgstr ""
+
+#: app/controllers/users/profiles-controller.php:94
+msgid "Profile"
+msgstr ""
+
+#: app/controllers/users/profiles-controller.php:217, app/controllers/users/profiles-controller.php:218
+msgid "Profiles (Voxel)"
+msgstr ""
+
+#: app/controllers/users/role-controller.php:21, app/controllers/users/role-controller.php:22
+msgid "User Roles"
+msgstr ""
+
+#: app/controllers/users/role-controller.php:143
+msgctxt "create role"
+msgid "Role key and label are required."
+msgstr ""
+
+#: app/controllers/users/role-controller.php:147
+msgctxt "create role"
+msgid "A role with this key already exists."
+msgstr ""
+
+#: app/controllers/users/users-controller.php:56
+msgid "Edit profile"
+msgstr ""
+
+#: app/dynamic-data/modifiers/abbreviate-modifier.php:12
+msgctxt "modifiers"
+msgid "Abbreviate number"
+msgstr ""
+
+#: app/dynamic-data/modifiers/append-modifier.php:12
+msgctxt "modifiers"
+msgid "Append text"
+msgstr ""
+
+#: app/dynamic-data/modifiers/append-modifier.php:22
+msgctxt "modifiers"
+msgid "Text to append"
+msgstr ""
+
+#: app/dynamic-data/modifiers/capitalize-modifier.php:12
+msgctxt "modifiers"
+msgid "Capitalize"
+msgstr ""
+
+#: app/dynamic-data/modifiers/count-modifier.php:12
+msgctxt "modifiers"
+msgid "Count all"
+msgstr ""
+
+#: app/dynamic-data/modifiers/currency-format-modifier.php:12
+msgctxt "modifiers"
+msgid "Currency format"
+msgstr ""
+
+#: app/dynamic-data/modifiers/currency-format-modifier.php:26
+msgctxt "modifiers"
+msgid "Currency"
+msgstr ""
+
+#: app/dynamic-data/modifiers/currency-format-modifier.php:32
+msgctxt "modifiers"
+msgid "Amount is in cents"
+msgstr ""
+
+#: app/dynamic-data/modifiers/date-format-modifier.php:12, app/dynamic-data/modifiers/date-format-modifier.php:26
+msgctxt "modifiers"
+msgid "Date format"
+msgstr ""
+
+#: app/dynamic-data/modifiers/date-format-modifier.php:27
+msgctxt "modifiers"
+msgid "Leave empty to use the format set in site options"
+msgstr ""
+
+#: app/dynamic-data/modifiers/fallback-modifier.php:12
+msgctxt "modifiers"
+msgid "Fallback"
+msgstr ""
+
+#: app/dynamic-data/modifiers/fallback-modifier.php:22
+msgctxt "modifiers"
+msgid "Fallback text"
+msgstr ""
+
+#: app/dynamic-data/modifiers/first-modifier.php:12
+msgctxt "modifiers"
+msgid "First item"
+msgstr ""
+
+#: app/dynamic-data/modifiers/last-modifier.php:12
+msgctxt "modifiers"
+msgid "Last item"
+msgstr ""
+
+#: app/dynamic-data/modifiers/list-modifier.php:12
+msgctxt "modifiers"
+msgid "List all"
+msgstr ""
+
+#: app/dynamic-data/modifiers/list-modifier.php:26
+msgctxt "modifiers"
+msgid "Item separator"
+msgstr ""
+
+#: app/dynamic-data/modifiers/list-modifier.php:32
+msgctxt "modifiers"
+msgid "Last item separator"
+msgstr ""
+
+#: app/dynamic-data/modifiers/list-modifier.php:38
+msgctxt "modifiers"
+msgid "Item prefix"
+msgstr ""
+
+#: app/dynamic-data/modifiers/list-modifier.php:43
+msgctxt "modifiers"
+msgid "Item suffix"
+msgstr ""
+
+#: app/dynamic-data/modifiers/nth-modifier.php:12
+msgctxt "modifiers"
+msgid "Nth item"
+msgstr ""
+
+#: app/dynamic-data/modifiers/nth-modifier.php:26
+msgctxt "modifiers"
+msgid "Index"
+msgstr ""
+
+#: app/dynamic-data/modifiers/nth-modifier.php:27
+msgctxt "modifiers"
+msgid "Retrieve an item by index (first is 0). Negative indexes are allowed (e.g., -1 for last item)."
+msgstr ""
+
+#: app/dynamic-data/modifiers/number-format-modifier.php:12
+msgctxt "modifiers"
+msgid "Number format"
+msgstr ""
+
+#: app/dynamic-data/modifiers/number-format-modifier.php:26, app/dynamic-data/modifiers/round-modifier.php:26
+msgctxt "modifiers"
+msgid "Decimals"
+msgstr ""
+
+#: app/dynamic-data/modifiers/number-format-modifier.php:27, app/dynamic-data/modifiers/round-modifier.php:27
+msgctxt "modifiers"
+msgid "Specify the number of decimal places to round to. Negative values round to positions before the decimal point. Default: 0."
+msgstr ""
+
+#: app/dynamic-data/modifiers/prepend-modifier.php:12
+msgctxt "modifiers"
+msgid "Prepend text"
+msgstr ""
+
+#: app/dynamic-data/modifiers/prepend-modifier.php:22
+msgctxt "modifiers"
+msgid "Text to prepend"
+msgstr ""
+
+#: app/dynamic-data/modifiers/replace-modifier.php:12
+msgctxt "modifiers"
+msgid "Replace text"
+msgstr ""
+
+#: app/dynamic-data/modifiers/replace-modifier.php:22
+msgctxt "modifiers"
+msgid "Search"
+msgstr ""
+
+#: app/dynamic-data/modifiers/replace-modifier.php:27
+msgctxt "modifiers"
+msgid "Replace with"
+msgstr ""
+
+#: app/dynamic-data/modifiers/round-modifier.php:12
+msgctxt "modifiers"
+msgid "Round number"
+msgstr ""
+
+#: app/dynamic-data/modifiers/time-diff-modifier.php:12
+msgctxt "modifiers"
+msgid "Time diff"
+msgstr ""
+
+#: app/dynamic-data/modifiers/time-diff-modifier.php:26
+msgctxt "modifiers"
+msgid "Timezone to compare against"
+msgstr ""
+
+#: app/dynamic-data/modifiers/time-diff-modifier.php:27
+msgctxt "modifiers"
+msgid "Enter the timezone identifier e.g. \"Europe/London\", or an offset e.g. \"+02:00\". Leave empty to use the timezone set in site options."
+msgstr ""
+
+#: app/dynamic-data/modifiers/to-age-modifier.php:12
+msgctxt "modifiers"
+msgid "Get age"
+msgstr ""
+
+#: app/dynamic-data/modifiers/truncate-modifier.php:12
+msgctxt "modifiers"
+msgid "Truncate text"
+msgstr ""
+
+#: app/dynamic-data/modifiers/truncate-modifier.php:22
+msgctxt "modifiers"
+msgid "Max length"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/author-is-vendor.php:16
+msgctxt "visibility rules"
+msgid "Author is a Stripe Connect vendor"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/author-is-verified.php:16
+msgctxt "visibility rules"
+msgid "Author is verified"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/author-plan-is.php:16
+msgctxt "visibility rules"
+msgid "Author membership plan is"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/author-plan-is.php:22, app/dynamic-data/visibility-rules/author-role-is.php:22, app/dynamic-data/visibility-rules/product-type-is.php:27, app/dynamic-data/visibility-rules/user-plan-is.php:22, app/dynamic-data/visibility-rules/user-role-is.php:22, app/modules/paid-listings/dynamic-data/visibility-rules/author-has-listing-plan.php:29, app/modules/paid-listings/dynamic-data/visibility-rules/listing-plan-is.php:29, app/modules/paid-listings/dynamic-data/visibility-rules/user-has-listing-plan.php:29
+msgctxt "visibility rules"
+msgid "Value"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/author-role-is.php:16
+msgctxt "visibility rules"
+msgid "Author role is"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/dtag-rule.php:16
+msgctxt "visibility rules"
+msgid "Dynamic tag"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/post-is-verified.php:16
+msgctxt "visibility rules"
+msgid "Post is verified"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/product-is-available.php:16
+msgctxt "visibility rules"
+msgid "Product is available"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/product-type-is.php:16
+msgctxt "visibility rules"
+msgid "Product type is"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-404.php:16
+msgctxt "visibility rules"
+msgid "Is 404 page"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-author.php:16
+msgctxt "visibility rules"
+msgid "Is author profile"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-author.php:22
+msgctxt "visibility rules"
+msgid "Enter author ID"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-child-of-page.php:16
+msgctxt "visibility rules"
+msgid "Is child of page"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-child-of-page.php:33
+msgctxt "visibility rules"
+msgid "Select parent page"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-homepage.php:16
+msgctxt "visibility rules"
+msgid "Is homepage"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-page.php:16
+msgctxt "visibility rules"
+msgid "Is page"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-page.php:33
+msgctxt "visibility rules"
+msgid "Select page"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-post-type-archive.php:16
+msgctxt "visibility rules"
+msgid "Is post type archive"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-post-type-archive.php:26, app/dynamic-data/visibility-rules/template-is-single-post.php:26, app/dynamic-data/visibility-rules/user-can-create-post.php:22
+msgctxt "visibility rules"
+msgid "Post type"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-single-post.php:16
+msgctxt "visibility rules"
+msgid "Is single post"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-single-post.php:35
+msgctxt "visibility rules"
+msgid "Enter post ID or slug"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-single-term.php:16
+msgctxt "visibility rules"
+msgid "Is single term"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-single-term.php:26
+msgctxt "visibility rules"
+msgid "Taxonomy"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/template-is-single-term.php:34
+msgctxt "visibility rules"
+msgid "Enter term ID or slug. Leave empty to match all terms in selected taxonomy."
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-can-create-post.php:16
+msgctxt "visibility rules"
+msgid "User can create new post"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-can-edit-post.php:16
+msgctxt "visibility rules"
+msgid "User can edit current post"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-follows-author.php:16
+msgctxt "visibility rules"
+msgid "User follows author"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-follows-author.php:22, app/dynamic-data/visibility-rules/user-is-customer-of-author.php:22
+msgctxt "visibility rules"
+msgid "Author ID"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-follows-post.php:16
+msgctxt "visibility rules"
+msgid "User follows post"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-follows-post.php:22
+msgctxt "visibility rules"
+msgid "Post ID"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-has-bought-product.php:16
+msgctxt "visibility rules"
+msgid "User has bought product"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-has-bought-product.php:22
+msgctxt "visibility rules"
+msgid "Product ID"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-is-author.php:16
+msgctxt "visibility rules"
+msgid "User is author of current post"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-is-customer-of-author.php:16
+msgctxt "visibility rules"
+msgid "User is customer of author"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-is-logged-in.php:16
+msgctxt "visibility rules"
+msgid "User is logged in"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-is-logged-out.php:16
+msgctxt "visibility rules"
+msgid "User is logged out"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-is-vendor.php:16
+msgctxt "visibility rules"
+msgid "User is a Stripe Connect vendor"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-is-verified.php:16
+msgctxt "visibility rules"
+msgid "User is verified"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-plan-is.php:16
+msgctxt "visibility rules"
+msgid "User membership plan is"
+msgstr ""
+
+#: app/dynamic-data/visibility-rules/user-role-is.php:16
+msgctxt "visibility rules"
+msgid "User role is"
+msgstr ""
+
+#: app/modules/paid-listings/listing-plan.php:95
+msgctxt "listing plans"
+msgid "Please provide a unique key."
+msgstr ""
+
+#: app/modules/paid-listings/listing-plan.php:99
+msgctxt "listing plans"
+msgid "Please provide a label."
+msgstr ""
+
+#: app/modules/paid-listings/package-list-table.php:15
+msgctxt "packages table"
+msgid "User"
+msgstr ""
+
+#: app/modules/paid-listings/package-list-table.php:16
+msgctxt "packages table"
+msgid "Plan"
+msgstr ""
+
+#: app/modules/paid-listings/package-list-table.php:17
+msgctxt "packages table"
+msgid "Order"
+msgstr ""
+
+#: app/modules/paid-listings/package-list-table.php:18
+msgctxt "packages table"
+msgid "Status"
+msgstr ""
+
+#: app/modules/paid-listings/package-list-table.php:19
+msgctxt "packages table"
+msgid "Date"
+msgstr ""
+
+#: app/modules/paid-listings/package-list-table.php:20
+msgctxt "packages table"
+msgid "Usage"
+msgstr ""
+
+#: app/modules/paid-memberships/customer-list-table.php:21
+msgctxt "members table"
+msgid "User"
+msgstr ""
+
+#: app/modules/paid-memberships/customer-list-table.php:22
+msgctxt "members table"
+msgid "ID"
+msgstr ""
+
+#: app/modules/paid-memberships/customer-list-table.php:23
+msgctxt "members table"
+msgid "Plan"
+msgstr ""
+
+#: app/modules/paid-memberships/customer-list-table.php:24
+msgctxt "members table"
+msgid "Price"
+msgstr ""
+
+#: app/modules/paid-memberships/customer-list-table.php:25
+msgctxt "members table"
+msgid "Status"
+msgstr ""
+
+#: app/modules/paid-memberships/customer-list-table.php:147
+msgctxt "members table"
+msgid "All"
+msgstr ""
+
+#: app/modules/paid-memberships/customer-list-table.php:155
+msgctxt "members table"
+msgid "Subscribers"
+msgstr ""
+
+#: app/modules/paid-memberships/customer-list-table.php:163
+msgctxt "members table"
+msgid "Free"
+msgstr ""
+
+#: app/modules/paid-memberships/plan.php:118
+msgctxt "membership plans"
+msgid "Please provide a unique key."
+msgstr ""
+
+#: app/modules/paid-memberships/plan.php:122
+msgctxt "membership plans"
+msgid "Please provide a label."
+msgstr ""
+
+#: app/post-types/field-conditions/date-empty.php:16, app/post-types/field-conditions/file-empty.php:16, app/post-types/field-conditions/number-empty.php:16, app/post-types/field-conditions/taxonomy-empty.php:16, app/post-types/field-conditions/text-empty.php:16, app/post-types/filter-conditions/is-empty.php:16
+msgctxt "field conditions"
+msgid "Is empty"
+msgstr ""
+
+#: app/post-types/field-conditions/date-gt.php:17, app/post-types/field-conditions/number-gt.php:17, app/post-types/filter-conditions/number-gt.php:17
+msgctxt "field conditions"
+msgid "Greater than"
+msgstr ""
+
+#: app/post-types/field-conditions/date-lt.php:17, app/post-types/field-conditions/number-lt.php:17, app/post-types/filter-conditions/number-lt.php:17
+msgctxt "field conditions"
+msgid "Less than"
+msgstr ""
+
+#: app/post-types/field-conditions/date-not-empty.php:16, app/post-types/field-conditions/file-not-empty.php:16, app/post-types/field-conditions/number-not-empty.php:16, app/post-types/field-conditions/taxonomy-not-empty.php:16, app/post-types/field-conditions/text-not-empty.php:16, app/post-types/filter-conditions/is-not-empty.php:16
+msgctxt "field conditions"
+msgid "Is not empty"
+msgstr ""
+
+#: app/post-types/field-conditions/number-equals.php:17, app/post-types/field-conditions/text-equals.php:17, app/post-types/filter-conditions/number-equals.php:17, app/post-types/filter-conditions/text-equals.php:17
+msgctxt "field conditions"
+msgid "Equals"
+msgstr ""
+
+#: app/post-types/field-conditions/number-gte.php:17, app/post-types/filter-conditions/number-gte.php:17
+msgctxt "field conditions"
+msgid "Greater than or equal to"
+msgstr ""
+
+#: app/post-types/field-conditions/number-lte.php:17, app/post-types/filter-conditions/number-lte.php:17
+msgctxt "field conditions"
+msgid "Less than or equal to"
+msgstr ""
+
+#: app/post-types/field-conditions/number-not-equals.php:17, app/post-types/field-conditions/text-not-equals.php:17, app/post-types/filter-conditions/number-not-equals.php:17, app/post-types/filter-conditions/text-not-equals.php:17
+msgctxt "field conditions"
+msgid "Not equals"
+msgstr ""
+
+#: app/post-types/field-conditions/switcher-checked.php:16
+msgctxt "field conditions"
+msgid "Is checked"
+msgstr ""
+
+#: app/post-types/field-conditions/switcher-unchecked.php:16
+msgctxt "field conditions"
+msgid "Is unchecked"
+msgstr ""
+
+#: app/post-types/field-conditions/taxonomy-contains.php:17, app/post-types/filter-conditions/taxonomy-contains.php:17
+msgctxt "field conditions"
+msgid "Contains term"
+msgstr ""
+
+#: app/post-types/field-conditions/taxonomy-not-contains.php:17, app/post-types/filter-conditions/taxonomy-not-contains.php:17
+msgctxt "field conditions"
+msgid "Does not contain term"
+msgstr ""
+
+#: app/post-types/field-conditions/text-contains.php:17, app/post-types/filter-conditions/text-contains.php:17
+msgctxt "field conditions"
+msgid "Contains"
+msgstr ""
+
+#: app/post-types/filters/availability-filter.php:307, app/post-types/filters/availability-filter.php:316, app/post-types/filters/keywords-filter.php:285, app/post-types/filters/traits/date-filter-helpers.php:91, app/post-types/filters/traits/date-filter-helpers.php:100
+msgctxt "date filter"
+msgid "Default value"
+msgstr ""
+
+#: app/post-types/filters/availability-filter.php:325, app/post-types/filters/traits/date-filter-helpers.php:109
+msgctxt "date filter"
+msgid "Default start date"
+msgstr ""
+
+#: app/post-types/filters/availability-filter.php:331, app/post-types/filters/traits/date-filter-helpers.php:115
+msgctxt "date filter"
+msgid "Default end date"
+msgstr ""
+
+#: app/post-types/filters/followed-by-filter.php:90, app/post-types/filters/following-post-filter.php:72, app/post-types/filters/following-user-filter.php:79
+msgctxt "following filter"
+msgid "Default value"
+msgstr ""
+
+#: app/post-types/filters/keywords-filter.php:290, app/post-types/filters/location-filter.php:528, app/post-types/filters/range-filter.php:268, app/post-types/filters/range-filter.php:293, app/post-types/filters/stepper-filter.php:174
+msgctxt "keywords_filter"
+msgid "Display as"
+msgstr ""
+
+#: app/post-types/filters/keywords-filter.php:293, app/post-types/filters/location-filter.php:531, app/post-types/filters/location-filter.php:541, app/post-types/filters/range-filter.php:296, app/post-types/filters/stepper-filter.php:177
+msgctxt "keywords_filter"
+msgid "Popup"
+msgstr ""
+
+#: app/post-types/filters/keywords-filter.php:294, app/post-types/filters/location-filter.php:532, app/post-types/filters/location-filter.php:542, app/post-types/filters/range-filter.php:297, app/post-types/filters/stepper-filter.php:178
+msgctxt "keywords_filter"
+msgid "Inline"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:434
+msgctxt "date filter"
+msgid "Default address"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:439
+msgctxt "date filter"
+msgid "Search method"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:458
+msgctxt "date filter"
+msgid "Southwest "
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:463, app/post-types/filters/location-filter.php:482, app/post-types/filters/location-filter.php:506
+msgctxt "date filter"
+msgid "Latitude"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:470, app/post-types/filters/location-filter.php:489, app/post-types/filters/location-filter.php:513
+msgctxt "date filter"
+msgid "Longitude"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:477
+msgctxt "date filter"
+msgid "Northeast"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:520
+msgctxt "date filter"
+msgid "Radius"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:538
+msgctxt "keywords_filter"
+msgid "Display proximity as"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:543
+msgctxt "keywords_filter"
+msgid "None"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:549
+msgctxt "keywords_filter"
+msgid "Default search method"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:552
+msgctxt "locaiton filter"
+msgid "Search by Area"
+msgstr ""
+
+#: app/post-types/filters/location-filter.php:553
+msgctxt "locaiton filter"
+msgid "Search by Radius"
+msgstr ""
+
+#: app/post-types/filters/open-now-filter.php:104, app/post-types/filters/switcher-filter.php:169
+msgctxt "open now filter"
+msgid "Default value"
+msgstr ""
+
+#: app/post-types/filters/open-now-filter.php:107
+msgctxt "open now filter"
+msgid "Checked"
+msgstr ""
+
+#: app/post-types/filters/open-now-filter.php:108
+msgctxt "open now filter"
+msgid "Unchecked"
+msgstr ""
+
+#: app/post-types/filters/open-now-filter.php:112, app/post-types/filters/switcher-filter.php:177
+msgctxt "open now filter"
+msgid "Display as button"
+msgstr ""
+
+#: app/post-types/filters/order-by-filter.php:143
+msgctxt "orderby filter"
+msgid "Default value"
+msgstr ""
+
+#: app/post-types/filters/order-by-filter.php:148
+msgctxt "orderby filter"
+msgid "Display as"
+msgstr ""
+
+#: app/post-types/filters/order-by-filter.php:151
+msgctxt "orderby filter"
+msgid "Popup"
+msgstr ""
+
+#: app/post-types/filters/order-by-filter.php:152
+msgctxt "orderby filter"
+msgid "Buttons"
+msgstr ""
+
+#: app/post-types/filters/order-by-filter.php:153
+msgctxt "orderby filter"
+msgid "Buttons Alt"
+msgstr ""
+
+#: app/post-types/filters/order-by-filter.php:154
+msgctxt "orderby filter"
+msgid "Post feed"
+msgstr ""
+
+#: app/post-types/filters/order-by-filter.php:159
+msgctxt "orderby filter"
+msgid "Ordering options"
+msgstr ""
+
+#: app/post-types/filters/order-by-filter.php:160
+msgctxt "orderby filter"
+msgid "Leave blank to list all options available"
+msgstr ""
+
+#: app/post-types/filters/post-status-filter.php:134
+msgctxt "post status filter"
+msgid "Default value"
+msgstr ""
+
+#: app/post-types/filters/post-status-filter.php:139
+msgctxt "post status filter"
+msgid "Display as"
+msgstr ""
+
+#: app/post-types/filters/post-status-filter.php:142
+msgctxt "post status filter"
+msgid "Popup"
+msgstr ""
+
+#: app/post-types/filters/post-status-filter.php:143
+msgctxt "post status filter"
+msgid "Buttons"
+msgstr ""
+
+#: app/post-types/filters/post-status-filter.php:148
+msgctxt "post status filter"
+msgid "Choices"
+msgstr ""
+
+#: app/post-types/filters/post-status-filter.php:149
+msgctxt "post status filter"
+msgid "Leave blank to list all options available"
+msgstr ""
+
+#: app/post-types/filters/range-filter.php:264, app/post-types/filters/stepper-filter.php:170
+msgctxt "range filter"
+msgid "Default value"
+msgstr ""
+
+#: app/post-types/filters/range-filter.php:271
+msgctxt "keywords_filter"
+msgid "Slider Popup"
+msgstr ""
+
+#: app/post-types/filters/range-filter.php:272
+msgctxt "keywords_filter"
+msgid "Slider Inline"
+msgstr ""
+
+#: app/post-types/filters/range-filter.php:281
+msgctxt "range filter"
+msgid "Default start value"
+msgstr ""
+
+#: app/post-types/filters/range-filter.php:287
+msgctxt "range filter"
+msgid "Default end value"
+msgstr ""
+
+#: app/post-types/filters/range-filter.php:298
+msgctxt "keywords_filter"
+msgid "Min/Max Inputs"
+msgstr ""
+
+#: app/post-types/filters/relations-filter.php:144
+msgctxt "relations filter"
+msgid "Default value"
+msgstr ""
+
+#: app/post-types/filters/switcher-filter.php:172
+msgctxt "switcher filter"
+msgid "Checked"
+msgstr ""
+
+#: app/post-types/filters/switcher-filter.php:173
+msgctxt "switcher filter"
+msgid "Unchecked"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:249
+msgctxt "terms filter"
+msgid "Default value"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:254
+msgctxt "terms_filter"
+msgid "Display as"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:257
+msgctxt "terms_filter"
+msgid "Popup"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:258
+msgctxt "terms_filter"
+msgid "Inline"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:259
+msgctxt "terms_filter"
+msgid "Buttons"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:264
+msgctxt "terms_filter"
+msgid "Hide empty terms?"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:265
+msgid "If checked, terms not assigned to any published post in this post type will not be listed"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:271
+msgid "Additional settings"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:278
+msgid "Multi column list"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:286
+msgid "Menu columns"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:287
+msgid "We recommend increasing popup min width before if you plan to display the menu in multiple columns"
+msgstr ""
+
+#: app/post-types/filters/terms-filter.php:302
+msgid "Column gap"
+msgstr ""
+
+#: app/post-types/filters/user-filter.php:69
+msgctxt "author filter"
+msgid "Default value"
+msgstr ""
+
+#: app/post-types/order-by/base-search-order.php:102
+msgid "Ascending"
+msgstr ""
+
+#: app/post-types/order-by/base-search-order.php:103
+msgid "Descending"
+msgstr ""
+
+#: app/timeline/backend/timeline-reply-table.php:181, app/timeline/backend/timeline-status-table.php:234
+msgctxt "timeline"
+msgid "Mark as approved"
+msgstr ""
+
+#: app/timeline/backend/timeline-reply-table.php:182, app/timeline/backend/timeline-status-table.php:235
+msgctxt "timeline"
+msgid "Mark as pending"
+msgstr ""
+
+#: app/timeline/backend/timeline-reply-table.php:183, app/timeline/backend/timeline-status-table.php:236
+msgctxt "timeline"
+msgid "Delete"
+msgstr ""
+
+#: app/controllers/ecommerce/payments/payments-controller.php:21, app/controllers/ecommerce/payments/payments-controller.php:22
+msgid "Payments"
+msgstr ""
+
+#: app/controllers/ecommerce/product-types/product-types-controller.php:29, app/controllers/ecommerce/product-types/product-types-controller.php:30
+msgid "Product Types"
+msgstr ""
+
+#: app/controllers/templates/post-types/post-type-base-templates-controller.php:72, app/controllers/templates/post-types/post-type-base-templates-controller.php:77
+msgid "Could not edit template"
+msgstr ""
+
+#: app/controllers/templates/post-types/post-type-base-templates-controller.php:122, app/controllers/templates/post-types/post-type-base-templates-controller.php:143
+msgid "Could not delete template"
+msgstr ""
+
+#: app/controllers/templates/post-types/post-type-custom-templates-controller.php:89, app/controllers/templates/post-types/post-type-custom-templates-controller.php:150
+msgid "Could not update template"
+msgstr ""
+
+#: app/controllers/templates/post-types/post-type-custom-templates-controller.php:262
+msgid "Could not delete template."
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/contains-control.php:16
+msgctxt "modifiers"
+msgid "Contains"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/contains-control.php:22, app/dynamic-data/modifiers/control-structures/does-not-contain-control.php:22, app/dynamic-data/modifiers/control-structures/is-equal-to-control.php:22, app/dynamic-data/modifiers/control-structures/is-greater-than-control.php:22, app/dynamic-data/modifiers/control-structures/is-less-than-control.php:22, app/dynamic-data/modifiers/control-structures/is-not-equal-to-control.php:22
+msgctxt "modifiers"
+msgid "Value"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/does-not-contain-control.php:16
+msgctxt "modifiers"
+msgid "Does not contain"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/else-control.php:16
+msgctxt "modifiers"
+msgid "Else"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/else-control.php:22, app/dynamic-data/modifiers/control-structures/then-control.php:22
+msgctxt "modifiers"
+msgid "Content"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-between-control.php:16
+msgctxt "modifiers"
+msgid "Is between"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-between-control.php:22
+msgctxt "modifiers"
+msgid "Start"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-between-control.php:27
+msgctxt "modifiers"
+msgid "End"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-checked-control.php:16
+msgctxt "modifiers"
+msgid "Is checked"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-empty-control.php:16
+msgctxt "modifiers"
+msgid "Is empty"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-equal-to-control.php:16
+msgctxt "modifiers"
+msgid "Is equal to"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-greater-than-control.php:16
+msgctxt "modifiers"
+msgid "Is greater than"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-greater-than-control.php:27, app/dynamic-data/modifiers/control-structures/is-less-than-control.php:27
+msgctxt "modifiers"
+msgid "Mode"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-less-than-control.php:16
+msgctxt "modifiers"
+msgid "Is less than"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-not-empty-control.php:16
+msgctxt "modifiers"
+msgid "Is not empty"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-not-equal-to-control.php:16
+msgctxt "modifiers"
+msgid "Is not equal to"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/is-unchecked-control.php:16
+msgctxt "modifiers"
+msgid "Is unchecked"
+msgstr ""
+
+#: app/dynamic-data/modifiers/control-structures/then-control.php:16
+msgctxt "modifiers"
+msgid "Then"
+msgstr ""
+
+#: app/dynamic-data/modifiers/group-methods/post-meta-method.php:16
+msgctxt "modifiers"
+msgid "Post meta"
+msgstr ""
+
+#: app/dynamic-data/modifiers/group-methods/post-meta-method.php:22, app/dynamic-data/modifiers/group-methods/term-meta-method.php:22, app/dynamic-data/modifiers/group-methods/user-meta-method.php:22
+msgctxt "modifiers"
+msgid "Meta key"
+msgstr ""
+
+#: app/dynamic-data/modifiers/group-methods/site-math-method.php:16, app/dynamic-data/modifiers/group-methods/site-math-method.php:22
+msgctxt "modifiers"
+msgid "Math expression"
+msgstr ""
+
+#: app/dynamic-data/modifiers/group-methods/site-query-var-method.php:16
+msgctxt "modifiers"
+msgid "Query variable"
+msgstr ""
+
+#: app/dynamic-data/modifiers/group-methods/site-query-var-method.php:22
+msgctxt "modifiers"
+msgid "Variable name"
+msgstr ""
+
+#: app/dynamic-data/modifiers/group-methods/term-meta-method.php:16
+msgctxt "modifiers"
+msgid "Term meta"
+msgstr ""
+
+#: app/dynamic-data/modifiers/group-methods/term-post-count-method.php:16
+msgctxt "modifiers"
+msgid "Post count"
+msgstr ""
+
+#: app/dynamic-data/modifiers/group-methods/term-post-count-method.php:22
+msgctxt "modifiers"
+msgid "Post type"
+msgstr ""
+
+#: app/dynamic-data/modifiers/group-methods/user-meta-method.php:16
+msgctxt "modifiers"
+msgid "User meta"
+msgstr ""
+
+#: app/modules/collections/controllers/collections-controller.php:55, app/modules/collections/controllers/collections-controller.php:56
+msgid "Collections (Voxel)"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:20
+msgid "Container options"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:26, app/modules/elementor/controllers/document-controller.php:125, app/modules/elementor/controllers/widget-controller.php:27
+msgid "Sticky position"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:32, app/modules/elementor/controllers/container-controller.php:165, app/modules/elementor/controllers/widget-controller.php:33
+msgid "Enable?"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:40, app/modules/elementor/controllers/widget-controller.php:41
+msgid "Enable on desktop"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:43, app/modules/elementor/controllers/container-controller.php:60, app/modules/elementor/controllers/container-controller.php:77, app/modules/elementor/controllers/document-controller.php:138, app/modules/elementor/controllers/document-controller.php:154, app/modules/elementor/controllers/document-controller.php:170, app/modules/elementor/controllers/widget-controller.php:44, app/modules/elementor/controllers/widget-controller.php:61, app/modules/elementor/controllers/widget-controller.php:78
+msgid "Enable"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:44, app/modules/elementor/controllers/container-controller.php:61, app/modules/elementor/controllers/container-controller.php:78, app/modules/elementor/controllers/document-controller.php:139, app/modules/elementor/controllers/document-controller.php:155, app/modules/elementor/controllers/document-controller.php:171, app/modules/elementor/controllers/widget-controller.php:45, app/modules/elementor/controllers/widget-controller.php:62, app/modules/elementor/controllers/widget-controller.php:79
+msgid "Disable"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:57, app/modules/elementor/controllers/widget-controller.php:58
+msgid "Enable on tablet"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:74, app/modules/elementor/controllers/widget-controller.php:75
+msgid "Enable on mobile"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:91, app/modules/elementor/controllers/document-controller.php:182, app/modules/elementor/controllers/widget-controller.php:92
+msgid "Top"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:108, app/modules/elementor/controllers/document-controller.php:198, app/modules/elementor/controllers/widget-controller.php:109
+msgid "Left"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:125, app/modules/elementor/controllers/document-controller.php:214, app/modules/elementor/controllers/widget-controller.php:126
+msgid "Right"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:142, app/modules/elementor/controllers/document-controller.php:230, app/modules/elementor/controllers/widget-controller.php:143
+msgid "Bottom"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:159
+msgid "Inline Flex"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:166
+msgid "Changes container display to inline flex and applies auto width"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:176
+msgid "Other"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:184
+msgid "Calculate min height?"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:186, app/modules/elementor/controllers/container-controller.php:214, app/modules/elementor/controllers/container-controller.php:270, app/modules/elementor/controllers/document-controller.php:67, app/modules/elementor/controllers/document-controller.php:75
+msgid "Show"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:187, app/modules/elementor/controllers/container-controller.php:215, app/modules/elementor/controllers/container-controller.php:271, app/modules/elementor/controllers/document-controller.php:66, app/modules/elementor/controllers/document-controller.php:74
+msgid "Hide"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:198, app/modules/elementor/controllers/container-controller.php:226, app/modules/elementor/controllers/container-controller.php:254
+msgid "Calculation"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:200, app/modules/elementor/controllers/container-controller.php:228, app/modules/elementor/controllers/container-controller.php:256
+msgid "calc()"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:201
+msgid "Use CSS calc() to calculate min-height e.g calc(100vh - 215px)."
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:212
+msgid "Calculate max height?"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:229
+msgid "Use CSS calc() to calculate max-height e.g calc(100vh - 215px)."
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:240
+msgid "Scrollbar color"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:257
+msgid "Use CSS calc() to calculate width e.g calc(100vh - 215px)."
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:268
+msgid "Backdrop blur?"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:280
+msgid "Strength"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:301
+msgid "Editor preview width"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:306
+msgid "Width"
+msgstr ""
+
+#: app/modules/elementor/controllers/container-controller.php:307
+msgid "Change the width of the canvas, useful when designing preview cards"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:20
+msgid "Voxel Settings"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:63
+msgid "Hide header on this page"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:71
+msgid "Hide footer on this page"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:83, app/modules/elementor/controllers/visibility-controller.php:32
+msgid "Visibility"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:88
+msgid "Document visibility"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:103
+msgid "When document is restricted, display:"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:117
+msgid "Template ID"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:135
+msgid "Sticky on desktop"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:151
+msgid "Sticky on tablet"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:167
+msgid "Sticky on mobile"
+msgstr ""
+
+#: app/modules/elementor/controllers/document-controller.php:246
+msgid "Z-index"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:243
+msgid "Line Awesome - Regular"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:256
+msgid "Line Awesome - Solid"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:269
+msgid "Line Awesome - Brands"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:388
+msgid "Invalid request"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:693
+msgid "Disable wrapping"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:694
+msgid "Disable text wrap and enable ellipsis for overflowing text"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:718
+msgid "Line clamp"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:719
+msgid "Truncate text at a specific number of lines. Please set columns to default to use Line clamp"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:733
+msgid "Retain internal colors"
+msgstr ""
+
+#: app/modules/elementor/controllers/elementor-controller.php:734
+msgid "Retain the original colors of the SVG defined in the code"
+msgstr ""
+
+#: app/modules/elementor/controllers/loop-controller.php:32
+msgid "Loop element"
+msgstr ""
+
+#: app/modules/elementor/controllers/loop-controller.php:37
+msgid "Loop this element based on"
+msgstr ""
+
+#: app/modules/elementor/controllers/loop-controller.php:44, app/modules/elementor/controllers/loop-controller.php:89
+msgid "Loop limit"
+msgstr ""
+
+#: app/modules/elementor/controllers/loop-controller.php:45, app/modules/elementor/controllers/loop-controller.php:90
+msgid "If a hard limit is set, the loop will stop there even if there are additional items left"
+msgstr ""
+
+#: app/modules/elementor/controllers/loop-controller.php:54, app/modules/elementor/controllers/loop-controller.php:99
+msgid "Loop offset"
+msgstr ""
+
+#: app/modules/elementor/controllers/loop-controller.php:55, app/modules/elementor/controllers/loop-controller.php:100
+msgid "Skip a set amount of items from the start of the loop"
+msgstr ""
+
+#: app/modules/elementor/controllers/loop-controller.php:83
+msgid "Loop repeater row"
+msgstr ""
+
+#: app/modules/elementor/controllers/visibility-controller.php:37
+msgid "Element visibility"
+msgstr ""
+
+#: app/modules/elementor/controllers/visibility-controller.php:42
+msgid "Show this element if"
+msgstr ""
+
+#: app/modules/elementor/controllers/visibility-controller.php:43
+msgid "Hide this element if"
+msgstr ""
+
+#: app/modules/elementor/controllers/visibility-controller.php:129
+msgid "Row visibility"
+msgstr ""
+
+#: app/modules/elementor/controllers/visibility-controller.php:132
+msgid "Show this row if"
+msgstr ""
+
+#: app/modules/elementor/controllers/visibility-controller.php:133
+msgid "Hide this row if"
+msgstr ""
+
+#: app/modules/elementor/controllers/widget-controller.php:19
+msgid "Widget options"
+msgstr ""
+
+#: app/modules/elementor/custom-controls/loop-control.php:27
+msgid "Edit loop"
+msgstr ""
+
+#: app/modules/elementor/custom-controls/loop-control.php:28, app/modules/elementor/custom-controls/visibility-control.php:28
+msgid "Remove"
+msgstr ""
+
+#: app/modules/elementor/custom-controls/post-select-control.php:36, app/modules/elementor/custom-controls/term-select-control.php:36
+msgid "Clear"
+msgstr ""
+
+#: app/modules/elementor/custom-controls/post-select-control.php:38
+msgid "Search templates"
+msgstr ""
+
+#: app/modules/elementor/custom-controls/repeater-control.php:66
+msgid "Add Item"
+msgstr ""
+
+#: app/modules/elementor/custom-controls/term-select-control.php:38
+msgid "Search terms"
+msgstr ""
+
+#: app/modules/elementor/custom-controls/visibility-control.php:27
+msgid "Edit rules"
+msgstr ""
+
+#: app/modules/paddle-payments/controllers/backend/paddle-settings-controller.php:64, app/modules/stripe-payments/controllers/backend/settings-controller.php:60, app/modules/stripe-payments/controllers/backend/settings-controller.php:194
+msgid "Endpoint created successfully."
+msgstr ""
+
+#: app/modules/paid-listings/controllers/backend/backend-controller.php:27
+msgid "Assigned Plans"
+msgstr ""
+
+#: app/modules/paid-listings/controllers/backend/backend-controller.php:28
+msgid "Paid Listings "
+msgstr ""
+
+#: app/modules/paid-listings/controllers/backend/backend-controller.php:43, app/modules/paid-listings/controllers/backend/backend-controller.php:44, app/modules/paid-memberships/controllers/backend/backend-controller.php:125, app/modules/paid-memberships/controllers/backend/backend-controller.php:126
+msgid "Plans"
+msgstr ""
+
+#: app/modules/paid-listings/controllers/backend/backend-controller.php:146, app/modules/paid-listings/controllers/backend/backend-controller.php:168, app/modules/paid-memberships/controllers/backend/plan-controller.php:64, app/modules/paid-memberships/controllers/backend/plan-controller.php:91, app/modules/paid-memberships/controllers/backend/plan-controller.php:113
+msgid "Plan not found."
+msgstr ""
+
+#: app/modules/paid-listings/controllers/backend/post-controller.php:35
+msgctxt "listing plan metabox"
+msgid "Listing Plan"
+msgstr ""
+
+#: app/modules/paid-listings/controllers/backend/post-table-controller.php:36, app/modules/paid-listings/controllers/backend/post-table-controller.php:43
+msgctxt "posts table column"
+msgid "Plan"
+msgstr ""
+
+#: app/modules/paid-listings/controllers/backend/settings-controller.php:67
+msgctxt "paid listings pricing page title"
+msgid "Listing plans"
+msgstr ""
+
+#: app/modules/paid-listings/controllers/backend/settings-controller.php:72, app/modules/paid-memberships/controllers/backend/plan-controller.php:149
+msgid "Could not create page."
+msgstr ""
+
+#: app/modules/paid-listings/dynamic-data/visibility-rules/author-has-listing-plan.php:18
+msgctxt "visibility rules"
+msgid "Author has bought listing plan"
+msgstr ""
+
+#: app/modules/paid-listings/dynamic-data/visibility-rules/listing-plan-is.php:18
+msgctxt "visibility rules"
+msgid "Listing plan is"
+msgstr ""
+
+#: app/modules/paid-listings/dynamic-data/visibility-rules/user-has-listing-plan.php:18
+msgctxt "visibility rules"
+msgid "User has bought listing plan"
+msgstr ""
+
+#: app/modules/paid-memberships/controllers/backend/backend-controller.php:25, app/modules/paid-memberships/controllers/backend/backend-controller.php:26
+msgid "Paid Members"
+msgstr ""
+
+#: app/modules/paid-memberships/controllers/backend/backend-controller.php:55, app/modules/paid-memberships/controllers/backend/backend-controller.php:33
+msgid "Customer not found."
+msgstr ""
+
+#: app/modules/paid-memberships/controllers/backend/plan-controller.php:144
+msgctxt "pricing page title"
+msgid "%s pricing"
+msgstr ""
+
+#: app/modules/stripe-payments/controllers/backend/settings-controller.php:147
+msgctxt "stripe"
+msgid "Portal configuration updated."
+msgstr ""
+
+#: app/modules/stripe-payments/controllers/backend/settings-controller.php:137
+msgctxt "stripe"
+msgid "Portal configuration saved."
+msgstr ""

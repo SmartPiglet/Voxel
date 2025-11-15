@@ -1,0 +1,1 @@
+<?php require_once locate_template( 'templates/widgets/search-form/followed-by-filter.php' ) ?>
